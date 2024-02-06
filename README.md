@@ -1,4 +1,4 @@
-# WOLT Delivery Fee Calculator
+# [WOLT Delivery Fee Calculator ](https://github.com/woltapp/engineering-internship-2024/blob/main/README.md)
 
 This project implements an HTTP API for calculating the delivery fee based on the provided specifications. The API exposes a single POST endpoint that accepts a JSON payload with information about the shopping cart and order details and responds with the calculated delivery fee.
 
